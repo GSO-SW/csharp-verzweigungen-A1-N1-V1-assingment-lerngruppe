@@ -1,0 +1,35 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Aufgabe2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build1",
+            "program": "${workspaceFolder}/Aufgabe2_Grundgerüst_implementieren/bin/Debug/net6.0/Aufgabe2_Grundgerüst_implementieren.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe2_Grundgerüst_implementieren",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Aufgabe4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build2",
+            "program": "${workspaceFolder}/Aufgabe4_Aufschlag_implementieren/bin/Debug/net6.0/Aufgabe4_Aufschlag_implementieren.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe4_Aufschlag_implementieren",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
