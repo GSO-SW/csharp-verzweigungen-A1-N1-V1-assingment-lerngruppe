@@ -27,6 +27,17 @@
             "stopAtEntry": false
         },
         {
+            "name": "Aufgabe6",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build3",
+            "program": "${workspaceFolder}/Aufgabe6_KategorienSaison_implementieren/bin/Debug/net6.0/Aufgabe6_KategorienSaison_implementieren.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe6_KategorienSaison_implementieren",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"

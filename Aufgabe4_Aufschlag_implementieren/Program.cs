@@ -14,7 +14,6 @@ public static class Aufgabe_4
 {
     public static void Aufgabe4()
     {
-        Console.WriteLine("test2");
         //Diese Zeile mit Ihrem Quellcode ersetzen
         
     }
