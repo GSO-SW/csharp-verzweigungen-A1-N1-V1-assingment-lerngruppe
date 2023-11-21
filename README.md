@@ -32,7 +32,7 @@ Dieser Auftrag hat folgende Ziele:
 
 ## :bookmark_tabs: Informationsquelle
 Das Informationsmaterial zur Aufgabe finden Sie [hier](./AddFiles/Informationsmaterial)
-  
+
 ---
 
 ## Hauptauftrag Hotel-Check-In-App
@@ -105,9 +105,9 @@ Beispiel (Aufenthaltsdauer: 1 Tag / Anzahl der Personen: 2):
 
 ### Aufgabe 3: Hotel-Check-In-App Aufschlag
 
-Wenn der Gast nur eine Übernachtung bestellt, wird ein Zuschlag von 20€ Netto berechnet. Passen Sie Struktorgramm und Programmablaufplan entsprechend an und laden Sie es unter der Bezeichnung "HotelCeckInApp_Aufschlag_STR.jpg" und "HotelCeckInApp_Aufschlag_PAP.jpg" in den Ordner AddFiles hoch. 
+Wenn der Gast nur eine Übernachtung bestellt, wird ein Zuschlag von 20€ Netto berechnet. Passen Sie den Programmablaufplan entsprechend an und laden Sie es unter der Bezeichnung "HotelCeckInApp_Aufschlag_PAP.jpg" in den Ordner AddFiles hoch. 
 
-<img src="./AddFiles/HotelCeckInApp_Aufschlag_STR.jpg" width=50% ><img src="./AddFiles/HotelCeckInApp_Aufschlag_PAP.jpg" width=50% >
+<img src="./AddFiles/HotelCeckInApp_Aufschlag_PAP.jpg" width=50% >
 
 
 > :information_source: **Hinweise**:exclamation:
