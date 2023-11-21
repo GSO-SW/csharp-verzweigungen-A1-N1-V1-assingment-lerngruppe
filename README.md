@@ -45,26 +45,21 @@ Eingabe von:
 - Anzahl der Personen
 - Saison (Frühling = 1, Sommer = 2, Herbst = 3, Winter = 4)
 - Zimmerkategorie (Standard = 1, Komfort = 2 und Suit = 3)
-- Kundenkategorie (Stammkunde = 1, Firmenkunde = 2, Reisebüro = 3)
-- Anzahl der Kinder
-- Alter je Kind (0 bis 18)
+
 
 Der Gesamtpreis wird wie folgt berechnet:
-- der Zimmerpreis ist abhängig von Zimmerkategorie, Saison und Anzahl Personen:
-Nettopreis?Zimmerpreis*Aufenthaltsdauer*Anzahl Personen
+- der Zimmerpreis ist abhängig von Zimmerkategorie 
+- je nach Sesaon wird auf den Nettopreis ein Zuschlag berechnet
+  
+Nettopreis=Zimmerpreis*Aufenthaltsdauer*Anzahl Personen
 - Wenn der Gast nur eine Übernachtung bestellt, wird ein Zuschlag berechnet. 
-- Abhängig von der Kundenkategorie werden unterschiedliche Rabatte gewöhrt.
-- Für jedes Kind werden folgende Rabatte angeboten:
--- 0 bis 6 Jahre: 100%
--- 7 bis 11 Jahre: 70%
--- Sonst 30 %
+
 - Gesamtpreis = Nettopreis + Nettopreis*MwSt./100
 
 Am Bildschirm wird Folgendes Ausgegeben: 
 - Meldung "Berechnen eines Angebots"
 - Preisliste je Zimmerkategorie uns Saison
 - Für jede Eingabe wird eine Eingabeaufforderung ausgegeben
-- Anzahl der Kinder
 - Gesamtpreis 
 
 ---
@@ -134,8 +129,32 @@ Beispiel (Aufenthaltsdauer: 1 Tag / Anzahl der Personen: 2):
 <img src="./AddFiles/Task2_example.jpg" width=100% >
 
 ---
+
+### Aufgabe 5: Hotel-Check-In-App Aufschlag
+
+Erwiterns Sie die PAP aus auf gabe 3 um folgende Punkte:
+
+- Zimmerkategorie Standard (70€), Komfort (100€) und Suit (200€)
+- Saison Frühling (+5%), Sommer (+8%), Herbst (0%), Winter (-10%)
+
+
+Passen Sie den Programmablaufplan entsprechend an und laden Sie es unter der Bezeichnung "HotelCeckInApp_Final_PAP.jpg" in den Ordner AddFiles hoch. 
+
+<img src="./AddFiles/HotelCeckInApp_Final_PAP.jpg" width=50% >
+
+
+> :information_source: **Hinweise**:exclamation:
+> + Sie müssen das Dateiformat und die Namensgebung einhalten damit die PAP Ihnen hier angezeigt wird.
+
+---
+
+### Aufgabe 6: Hotel-Check-In-App Kategorien und Saison
+
+Setzen Sie den Entwurf aus Aufgabe 5 in ein C#-Programm um. Beachten Sie dabei die folgenden Werte.
+
+---
   
-### Aufgabe 5: Arbeit einreichen
+### Aufgabe 7: Arbeit einreichen
 
 1. In Visual Studio 2022 das Fenster "Git-Änderungen" aufrufen
 2. Eine kurze Beschreibung Ihrer Änderungen in die Textbox eingeben und "commit für alle" klicken

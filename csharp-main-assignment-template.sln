@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe2_Grundgerüst_imple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe4_Aufschlag_implementieren", "Aufgabe4_Aufschlag_implementieren\Aufgabe4_Aufschlag_implementieren.csproj", "{A2ED58C9-5ACF-4CC0-9159-415CC2D2C7DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe6_KategorienSaison_implementieren", "Aufgabe6_KategorienSaison_implementieren\Aufgabe6_KategorienSaison_implementieren.csproj", "{11CEA40F-2E27-4042-BF93-CBF750926E42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{A2ED58C9-5ACF-4CC0-9159-415CC2D2C7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2ED58C9-5ACF-4CC0-9159-415CC2D2C7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2ED58C9-5ACF-4CC0-9159-415CC2D2C7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CEA40F-2E27-4042-BF93-CBF750926E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CEA40F-2E27-4042-BF93-CBF750926E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CEA40F-2E27-4042-BF93-CBF750926E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CEA40F-2E27-4042-BF93-CBF750926E42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
