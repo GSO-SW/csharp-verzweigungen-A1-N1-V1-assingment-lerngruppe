@@ -71,7 +71,7 @@ Mehrwertsteuer: 19%
   
 > :information_source: **Hinweise**:exclamation:
 > + Beachten Sie, dass Sie die Ausgabe unter der gestrichelten Linie erzeugen müssen, um die Aufgabe zu bestehen
-> + Die Ausgabe hat nach dem ':' genau 10 Stellen
+> + Die Ausgabe hat nach dem ':' genau 14 Stellen
 > + Runden Sie das Ergebnis auf **zwei** Nachkommastelle
 
 
@@ -103,7 +103,7 @@ Mehrwertsteuer: 19%
 
 > :information_source: **Hinweise**:exclamation:
 > + Beachten Sie, dass Sie die Ausgabe unter der gestrichelten Linie erzeugen müssen, um die Aufgabe zu bestehen
-> + Die Ausgabe hat nach dem ':' genau 10 Stellen
+> + Die Ausgabe hat nach dem ':' genau 14 Stellen
 > + Runden Sie das Ergebnis auf **zwei** Nachkommastelle
 
 
