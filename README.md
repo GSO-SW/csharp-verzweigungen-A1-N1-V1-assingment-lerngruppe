@@ -40,7 +40,10 @@ Am Bildschirm wird Folgendes Ausgegeben:
 
 
 ## :bookmark_tabs: Informationsquelle
-Das Informationsmaterial zur Aufgabe finden Sie [hier](./AddFiles/Informationsmaterial)
+
+- [Informationsmaterial](./AddFiles/Informationsmaterial)
+- [GSO-WIKI](https://github.com/GSO-SW/public_content_gso/wiki)
+
 
 ---
 
