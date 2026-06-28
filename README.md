@@ -9,30 +9,6 @@
         <h3>Arbeitsauftrag zu if-else(if) und switch-case-Anweisungen</h3>
 </div>
 
-## :dart: Zielsetzung
-
-Dieser Auftrag hat folgende Ziele:
-
-+ Einfache Programmierprobleme nutzen, um die in den Modulen 1, 2, 3 und 4 behandelten Themen zu Vertiefen
-+ Üben ein Problem in kleinere Teilprobleme zu zerlegen
-+ Üben Informationen zu Recherchieren, die nicht explizit in der Aufgabenstellung genannt werden
-+ Üben Sie das Erstellen, Klonen und Einreichen von Aufträgen über Visual Studio 2022 und GitHub
-
-##  :school_satchel: Skills
-
-+ Zerlegung eines Problems in eine Folge einfacher Aufgaben oder Berechnungen
-+ Nutzung des Internets, um Informationen oder Formeln zu finden, die zur Lösung von Programmieraufgaben benötigt werden
-+ Verwendung von Zuweisungs-Workflow-Schritten
-
-## :bulb: Benötigtes Wissen
-+ Konsolenausgabe formatieren und Daten über die Konsole einlesen
-+ Verwendung und Konvertierung von Variablen mit unterschiedlichen Datentypen
-+ Verarbeitung von Variablen und Literalen durch Operatoren
-+ Anweisungen unter verschiedenen Bedingungen
-
-## :bookmark_tabs: Informationsquelle
-Das Informationsmaterial zur Aufgabe finden Sie [hier](./AddFiles/Informationsmaterial)
-
 ---
 
 ## Hauptauftrag Hotel-Check-In-App
@@ -61,6 +37,10 @@ Am Bildschirm wird Folgendes Ausgegeben:
 - Preisliste je Zimmerkategorie uns Saison
 - Für jede Eingabe wird eine Eingabeaufforderung ausgegeben
 - Gesamtpreis 
+
+
+## :bookmark_tabs: Informationsquelle
+Das Informationsmaterial zur Aufgabe finden Sie [hier](./AddFiles/Informationsmaterial)
 
 ---
 
