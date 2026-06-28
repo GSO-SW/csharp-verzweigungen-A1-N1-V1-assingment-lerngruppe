@@ -25,6 +25,11 @@ namespace Test_Task1
         public void Test_InOut(double value_1 , double value_2, double value_3)
         {
             // Arrange
+            Debug.WriteLine($"\n=== Eingabeparameter ===");
+            Debug.WriteLine($"Nächte (value_1): {value_1}");
+            Debug.WriteLine($"Personen (value_2): {value_2}");
+            Debug.WriteLine($"Erwarteter Preis (value_3): {value_3}");
+
             var writer = new StringWriter();
             Console.SetOut(writer);
 
@@ -49,12 +54,18 @@ namespace Test_Task1
                 if (lines[i] != "")
                 {
                     lines_list.Add(lines[i]);
-                    Debug.WriteLine($"{lines[i]}");
                 }
             }
 
             List<string> lines_list_check = new List<string> { $"Der Gesamtpreis beträgt:{value_3,10:F2}{" EUR"}"};
 
+            Debug.WriteLine($"\n=== Alle Zeilen aus Ausgabe ===");
+            foreach (var line in lines_list)
+            {
+                Debug.WriteLine($"'{line}'");
+            }
+            Debug.WriteLine($"=== Erwartete Zeile ===");
+            Debug.WriteLine($"'{lines_list_check[0]}'");
 
             lines_list = lines_list.Intersect(lines_list_check).ToList();
 
@@ -64,13 +75,23 @@ namespace Test_Task1
 
                 try
                 {
+                    if (i >= lines_list.Count)
+                    {
+                        Assert.Fail($"Zeile nicht gefunden: {lines_list_check[i]}");
+                    }
                     if (lines_list[i] != lines_list_check[i]) Trace.WriteLine($"\nFehler: '{lines_list_check[i]}' nicht gefunden");
                     Assert.AreEqual(lines_list[i], lines_list_check[i]);
                 }
-                catch
+                catch (Exception ex)
                 {
                     Trace.WriteLine($"Fehler: Zeilen fehlen");
-                    Assert.Fail(); ;
+                    Trace.WriteLine($"Erwartet: '{lines_list_check[i]}'");
+                    if (i < lines_list.Count)
+                        Trace.WriteLine($"Aktuell: '{lines_list[i]}'");
+                    else
+                        Trace.WriteLine($"Aktuell: (Zeile nicht gefunden)");
+                    Trace.WriteLine($"Exception: {ex.Message}");
+                    Assert.Fail();
                 }
 
             }

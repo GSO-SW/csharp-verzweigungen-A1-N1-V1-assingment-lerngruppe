@@ -5,9 +5,9 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D18E7C20-9718-4C5E-BF38-DEDAF4391A59}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Task1", "Test_Task1\Test_Task1.csproj", "{1993C69E-3DA2-4C33-83C2-DEB54586A572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Aufgabe2", "Test_Aufgabe2\Test_Aufgabe2.csproj", "{1993C69E-3DA2-4C33-83C2-DEB54586A572}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Task2", "Test_Task2\Test_Task2.csproj", "{8F4583AC-064C-48F5-BEC3-4BC58A793237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Aufgabe4", "Test_Aufgabe4\Test_Aufgabe4.csproj", "{8F4583AC-064C-48F5-BEC3-4BC58A793237}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe2_Grundgerüst_implementieren", "Aufgabe2_Grundgerüst_implementieren\Aufgabe2_Grundgerüst_implementieren.csproj", "{3EF7222C-FE43-49FE-B4B0-DCC3CE205485}"
 EndProject
