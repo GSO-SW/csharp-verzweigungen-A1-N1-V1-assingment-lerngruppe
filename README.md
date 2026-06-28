@@ -44,7 +44,7 @@ Das Informationsmaterial zur Aufgabe finden Sie [hier](./AddFiles/Informationsma
 
 ---
 
-### Aufgabe 1: Hotel-Check-In-App Grundgerüst
+### Aufgabe 1: Hotel-Check-In-App Grundgerüst (Einzelarbeit :busts_in_silhouette:)
 
 In der Enwurfsphase für den ersten Anwendungsfall ist das folgende Struktogramm entstanden. Erstellen Sie für dieses Struktogramm den passenden Programmablaufplan (PAP) und laden sie diesen unter der Dateibezeichnung "HotelCeckInApp_Grundgerüst_PAP.jpg" in den Ordner "AddFiles" hoch.
 
@@ -59,7 +59,7 @@ Struktorgramm und PAP:
 
 ---
   
-### Aufgabe 2: Hotel-Check-In-App Grundgerüst implementieren
+### Aufgabe 2: Hotel-Check-In-App Grundgerüst implementieren (Einzelarbeit :bust_in_silhouette:)
 
 Setzen Sie den Entwurf aus Aufgabe 1 in ein C#-Programm um. Beachten Sie dabei die folgenden Werte.
 
@@ -78,7 +78,7 @@ Beispiel (Aufenthaltsdauer: 1 Tag / Anzahl der Personen: 2):
   
 ---
 
-### Aufgabe 3: Hotel-Check-In-App Aufschlag
+### Aufgabe 3: Hotel-Check-In-App Aufschlag (Partnerarbeit :busts_in_silhouette:)
 
 Wenn der Gast nur eine Übernachtung bestellt, wird ein Zuschlag von 20€ Netto berechnet. Passen Sie den Programmablaufplan entsprechend an und laden Sie es unter der Bezeichnung "HotelCeckInApp_Aufschlag_PAP.jpg" in den Ordner AddFiles hoch. 
 
@@ -90,7 +90,7 @@ Wenn der Gast nur eine Übernachtung bestellt, wird ein Zuschlag von 20€ Netto
 
 ---
 
-### Aufgabe 4: Hotel-Check-In-App Aufschlag implementieren
+### Aufgabe 4: Hotel-Check-In-App Aufschlag implementieren (Einzelarbeit :bust_in_silhouette:)
 
 Setzen Sie den Entwurf aus Aufgabe 3 in ein C#-Programm um. Beachten Sie dabei die folgenden Werte.
 
@@ -110,7 +110,7 @@ Beispiel (Aufenthaltsdauer: 1 Tag / Anzahl der Personen: 2):
 
 ---
 
-### Aufgabe 5: Hotel-Check-In-App Aufschlag
+### Aufgabe 5: Hotel-Check-In-App Aufschlag (Partnerarbeit :busts_in_silhouette:)
 
 Erwiterns Sie die PAP aus auf gabe 3 um folgende Punkte:
 
@@ -128,7 +128,7 @@ Passen Sie den Programmablaufplan entsprechend an und laden Sie es unter der Bez
 
 ---
 
-### Aufgabe 6: Hotel-Check-In-App Kategorien und Saison
+### Aufgabe 6: Hotel-Check-In-App Kategorien und Saison (Einzelarbeit :bust_in_silhouette:)
 
 Setzen Sie den Entwurf aus Aufgabe 5 in ein C#-Programm um. Beachten Sie dabei die folgenden Werte.
 
