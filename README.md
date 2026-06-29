@@ -136,6 +136,28 @@ Passen Sie den Programmablaufplan entsprechend an und laden Sie es unter der Bez
 Setzen Sie den Entwurf aus Aufgabe 5 in ein C#-Programm um. Beachten Sie dabei die folgenden Werte.
 
 ---
+
+### Sprinteraufgabe: Rechnung formatiert ausgeben (Einzelarbeit :bust_in_silhouette:)
+
+```text
+=============================
+      HOTEL-ANGEBOT
+=============================
+Zimmer:        Komfort
+Saison:        Sommer
+Personen:      2
+Nächte:        5
+Nettopreis:    1000,00 €
+Saisonzuschlag:  80,00 €
+Aufschlag:       20,00 €
+MwSt. (19%):   209,00 €
+-----------------------------
+Gesamtpreis:  1309,00 €
+=============================
+Vielen Dank für Ihre Buchung!
+```
+
+---
   
 ### Aufgabe 7: Arbeit einreichen
 
