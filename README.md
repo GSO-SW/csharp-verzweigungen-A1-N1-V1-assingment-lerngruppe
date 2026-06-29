@@ -13,7 +13,8 @@
 
 ## Hauptauftrag Hotel-Check-In-App
 
-Der Projektleiter beauftragt Sie ein Programm zu entwickeln, das ein Angebot für Hotelübernachtungen erstellen soll.
+Während Ihres Praktikums in einem Softwareunternehmen entwickeln Sie eine Hotel-Check-In-App. Ihr Projektleiter hat Sie damit beauftragt, ein Programm zu erstellen, das anhand der Eingaben des Gastes den Preis für eine Hotelübernachtung berechnet und ein Angebot ausgibt.
+
 Die Analyse des Hauptauftrags ergibt folgende wesentliche Verarbeitungsschritte:
 
 Eingabe von:
@@ -37,6 +38,8 @@ Am Bildschirm wird Folgendes Ausgegeben:
 - Preisliste je Zimmerkategorie uns Saison
 - Für jede Eingabe wird eine Eingabeaufforderung ausgegeben
 - Gesamtpreis 
+
+Ihr Projektleiter hat ihnen einige Informationen zusammengestellt und die notwendigen Verarbeitungsschritte für Sie vorstrukturiert.
 
 
 ## :bookmark_tabs: Informationsquelle
